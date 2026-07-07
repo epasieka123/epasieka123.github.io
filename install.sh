@@ -8,7 +8,7 @@ REPO_BASE="https://raw.githubusercontent.com/epasieka123/epasieka123.github.io/m
 ZIP_URL="$REPO_BASE/BahamasVATTracker-Mac.zip"
 INSTALL_DIR="$HOME/Applications/BahamasVATTracker"
 TMP_DIR=$(mktemp -d)
-APP_NAME="Bahamas VAT Tracker.app"
+APP_NAME="BahamasVATTracker.app"
 
 echo "======================================"
 echo " Bahamas VAT Tracker - Installer"
